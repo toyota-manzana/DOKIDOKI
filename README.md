@@ -1,7 +1,6 @@
 # 💡 DOKIDOKI – 心拍と連動するスマートペンライト
 
 ![Arduino](https://img.shields.io/badge/Code-Arduino-blue?logo=arduino)
-![C++](https://img.shields.io/badge/Language-C%2B%2B-blueviolet?logo=c%2B%2B)
 ![ESP-NOW](https://img.shields.io/badge/Wireless-ESP--NOW-orange?logo=espressif)
 ![M5StickC](https://img.shields.io/badge/Hardware-M5Stack-red?logo=espressif)
 ![MAX30100](https://img.shields.io/badge/Sensor-MAX30100-green)
@@ -10,6 +9,10 @@
 ![FastLED](https://img.shields.io/badge/Library-FastLED-lightblue)
 
 **DOKIDOKI** は、M5StickC Plus と MAX30100 心拍センサを使って「演者と観客を光でつなぐ」スマートペンライトです。
+
+
+https://github.com/user-attachments/assets/17568819-5b7a-4fd7-aafc-20940c4dec21
+
 
 ---
 
